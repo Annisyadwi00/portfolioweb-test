@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 
 ---
 
-## 🌟 Features
+## 🌟 Feature
 
 - **About Me**: Learn about my journey, experiences, and professional background.
 - **Projects**: Highlighting my technical projects, including IoT-based rainfall prediction and file encryption with NodeJS.
